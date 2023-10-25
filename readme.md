@@ -15,7 +15,7 @@
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en [Lista de tus habilidades]
 
 
-![utn](https://github.com/matucamus/matucamus/assets/106162059/93d08907-bf9a-4acb-9786-e1aae6f39e92)         ![utn_icon_03](https://github.com/matucamus/matucamus/assets/106162059/b2897a2f-df1c-41d4-a7ed-940b6ded9ff5)
+![utn](https://github.com/matucamus/matucamus/assets/106162059/93d08907-bf9a-4acb-9786-e1aae6f39e92)        
 
 
 ## Habilidades
@@ -60,3 +60,7 @@ Hackatones y Desafíos Técnicos: Me encanta enfrentar desafíos técnicos y par
 
 
 ![bandera](https://github.com/matucamus/matucamus/assets/106162059/df957af6-503d-4757-a796-3570c1ce8f99)
+
+
+
+ ![utn_icon_03](https://github.com/matucamus/matucamus/assets/106162059/b2897a2f-df1c-41d4-a7ed-940b6ded9ff5)
