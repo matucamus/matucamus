@@ -4,7 +4,7 @@
 ![callback-hell](https://github.com/matucamus/matucamus/assets/106162059/56722914-20d8-4122-accb-d37e605f1351)
 
 
-# Presentación de Gimenez Ernesto Matias
+#  Gimenez Ernesto Matias
 
 ¡Hola! Soy Gimenez Ernesto Matias, un programador junior apasionado por la tecnología y el desarrollo de software.
 
