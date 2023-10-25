@@ -1,4 +1,6 @@
 # PRECENTACION
+
+
 ![callback-hell](https://github.com/matucamus/matucamus/assets/106162059/56722914-20d8-4122-accb-d37e605f1351)
 
 
@@ -11,6 +13,9 @@
 - 🎓 Graduado en Tecnicatura Programacon
 - 💼 Actualmente trabajando en Universidad Tecnologica Nacional
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en [Lista de tus habilidades]
+
+
+![utn](https://github.com/matucamus/matucamus/assets/106162059/93d08907-bf9a-4acb-9786-e1aae6f39e92)
 
 ## Habilidades
 Habilidades
@@ -50,3 +55,7 @@ Hackatones y Desafíos Técnicos: Me encanta enfrentar desafíos técnicos y par
 
 
 ¡Gracias por visitar mi perfil de GitHub! Siéntete libre de contactarme si tienes alguna pregunta o oportunidad de colaboración.
+
+
+
+![bandera](https://github.com/matucamus/matucamus/assets/106162059/df957af6-503d-4757-a796-3570c1ce8f99)
