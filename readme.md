@@ -10,7 +10,7 @@
 
 ## Acerca de mí
 
-- 🎓 Graduado en Tecnicatura Programacon
+- 🎓 Graduado en Tecnicatura Programación
 - 💼 Actualmente trabajando en Universidad Tecnologica Nacional
 - 🌱 Siempre aprendiendo y mejorando mis habilidades en [Lista de tus habilidades]
 
