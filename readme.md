@@ -34,6 +34,10 @@ Aprendizaje Continuo: Siempre buscando aprender nuevas tecnologías y métodos
 
 - Apicacion  cocheras  -https://github.com/matucamus/Proyecto-coheras-UTN   / PROYECTO REALIZADO EN PYTHON
 - Ecomerce en PHP... EN PROCESO
+
+- https://github.com/matucamus/PROYECTO-Control-Gastos-con-React
+
+- https://github.com/matucamus/PROYECTO_citas_react_vite
 - ...
 
 ## Contacto
