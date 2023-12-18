@@ -12,7 +12,7 @@
 
 - 🎓 Graduado en Tecnicatura Programación
 - 💼 Actualmente trabajando en Universidad Tecnologica Nacional
-- 🌱 Siempre aprendiendo y mejorando mis habilidades en [Lista de tus habilidades]
+- 🌱 Siempre aprendiendo y mejorando mis habilidades 
 
 
 ![utn](https://github.com/matucamus/matucamus/assets/106162059/93d08907-bf9a-4acb-9786-e1aae6f39e92)        
