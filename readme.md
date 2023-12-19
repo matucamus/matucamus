@@ -38,7 +38,7 @@ Aprendizaje Continuo: Siempre buscando aprender nuevas tecnologías y métodos
 - https://github.com/matucamus/PROYECTO-Control-Gastos-con-React
 
 - https://github.com/matucamus/PROYECTO_citas_react_vite
-- 
+  
 - https://github.com/matucamus/Cotizador-Criptos-React
 - ...
 
