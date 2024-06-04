@@ -42,6 +42,8 @@ Aprendizaje Continuo: Siempre buscando aprender nuevas tecnologías y métodos
 - https://github.com/matucamus/Cotizador-Criptos-React
 
 - https://66203bc05fc4e69d7650390b--melodic-alpaca-c16171.netlify.app/
+  
+- https://665f2ba8cab85600845f56a9--teal-youtiao-2721d3.netlify.app/
 - ...
 
 ## Contacto
